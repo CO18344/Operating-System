@@ -1,4 +1,4 @@
-
+//Compile the following code in linux with command: gcc firstThread.c -o out -l pthread
 #include<stdio.h>
 #include<pthread.h>
 
